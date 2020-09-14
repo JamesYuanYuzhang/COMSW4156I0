@@ -3,7 +3,7 @@ import json
 
 
 def send(event):
-    print("hello")
+    print("hello2")
     print("This is for I0 assignment of COMSW 4156")
     responderName = "DinnerSuggestions"
     userId = event["SenderID"]
